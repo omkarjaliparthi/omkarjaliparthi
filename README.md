@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/📍_San_Jose,_CA-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🟢_Open_to_Senior_PM_·_TPM_·_Founding_PM-success?style=for-the-badge" />
   <a href="mailto:Jaliparthiomkar03@gmail.com"><img src="https://img.shields.io/badge/📫_Email-6E56CF?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/omkarjaliparthi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jaliparthiomkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.insightsbyomkar.com"><img src="https://img.shields.io/badge/Live_Product-insightsbyomkar.com-181717?style=for-the-badge" /></a>
 </p>
 
@@ -165,7 +165,7 @@ Real artifacts from shipped programs: PRDs, RFCs, pre-launch checklists, postmor
 <p align="center">
 <b>Hiring for Senior PM · Senior TPM · Founding PM · Product Ops Lead?</b><br/>
 Domains I care about: <b>AI platforms · Developer tooling · Infra · Consumer · Fintech · Healthtech</b><br/><br/>
-<a href="mailto:Jaliparthiomkar03@gmail.com"><b>Jaliparthiomkar03@gmail.com</b></a> · <a href="https://www.linkedin.com/in/omkarjaliparthi">LinkedIn</a> · <a href="https://www.insightsbyomkar.com">insightsbyomkar.com</a>
+<a href="mailto:Jaliparthiomkar03@gmail.com"><b>Jaliparthiomkar03@gmail.com</b></a> · <a href="https://www.linkedin.com/in/jaliparthiomkar">LinkedIn</a> · <a href="https://www.insightsbyomkar.com">insightsbyomkar.com</a>
 </p>
 
 <!--
