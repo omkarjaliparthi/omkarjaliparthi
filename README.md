@@ -14,9 +14,9 @@
 
 ### About
 
-I'm a Product & Program leader who ships — strategy, program, and code. Over 8+ years I've run multi-team delivery across **$1.2M+ portfolios**, rebuilt operational systems from the ground up, and — most recently — designed and launched a production AI SaaS solo in **~6 weeks**.
+Product & Program leader who ships. 8+ years running multi-team delivery across **$1.2M+ portfolios**. Most recently: designed and shipped a production AI SaaS solo in **6 weeks** — strategy, program, and code.
 
-I founded **Omkar's Holistic Services LLC** (DBA *Insights by Omkar*) in May 2023 and shipped its flagship AI platform to live users in March 2026. What makes me rare: PRD → Figma → Jira → production code → postmortem. I don't hand off work I can't do myself.
+Founded **Omkar's Holistic Services LLC** (DBA *Insights by Omkar*) in May 2023; its flagship AI platform went live in March 2026. PRD → Figma → Jira → production code → postmortem. I don't hand off work I can't do myself.
 
 ---
 
@@ -42,16 +42,16 @@ I founded **Omkar's Holistic Services LLC** (DBA *Insights by Omkar*) in May 202
 <td width="50%" valign="top">
 
 #### 🔮 Insights by Omkar &nbsp; <sub><i>live · private repo</i></sub>
-AI-powered consumer SaaS with paying users. Full-stack, end-to-end ownership.
+AI consumer SaaS. Paying users. Full-stack ownership.
 
 **Role:** Founder · Product · Program · Engineering
-**Business:** Omkar's Holistic Services LLC (DBA) · *Since May 2023*
-**Product shipped:** ~6 weeks (v0.01 → v2.0.7)
+**Business:** Omkar's Holistic Services LLC (DBA) · *May 2023 →*
+**Ship:** 6 weeks · v0.01 → v2.0.7
 
 `Next.js 16` · `Supabase` · `Stripe + PayPal` · `OpenAI + Anthropic` · `Resend` · `Vercel`
 
 → [Live product](https://www.insightsbyomkar.com)
-→ [Public case study](https://github.com/omkarjaliparthi/insights-by-omkar-case-study)
+→ [Case study](https://github.com/omkarjaliparthi/insights-by-omkar-case-study)
 
 </td>
 <td width="50%" valign="top">
@@ -59,7 +59,7 @@ AI-powered consumer SaaS with paying users. Full-stack, end-to-end ownership.
 #### 🌟 Tuffy's AI Astrology &nbsp; <sub><i>public · live demo</i></sub>
 Structured-output AI consumer product.
 
-**Product thesis:** clarity over verbosity, systems over one-off outputs.
+**Thesis:** clarity over verbosity. Systems over one-offs.
 
 `Next.js` · `TypeScript` · `OpenAI`
 
@@ -74,7 +74,7 @@ Structured-output AI consumer product.
 #### 🏥 MediLink &nbsp; <sub><i>capstone</i></sub>
 Healthcare records platform unifying patient data across providers.
 
-**Role:** Project Manager · 10-person team · 6 Agile sprints
+**Role:** PM · 10-person team · 6 sprints
 **Outcomes:** 30%+ repeat-defect prevention · 35% fewer blockers
 
 → [Source & team](https://github.com/omkarjaliparthi/medilink)
@@ -83,7 +83,7 @@ Healthcare records platform unifying patient data across providers.
 <td width="50%" valign="top">
 
 #### 📋 TPM × PM Portfolio &nbsp; <sub><i>artifacts</i></sub>
-Real artifacts from shipped programs — PRDs, RFCs, launch checklists, postmortems, status rollups.
+PRDs, RFCs, launch checklists, postmortems, status rollups — from shipped programs.
 
 → [Browse](https://github.com/omkarjaliparthi/tpm-portfolio)
 
@@ -95,9 +95,9 @@ Real artifacts from shipped programs — PRDs, RFCs, launch checklists, postmort
 
 ### Strengths
 
-**Product** — 0→1 discovery · structured-output AI UX · pricing & packaging · scoping & cut lists
-**Program** — versioned release discipline · pre-launch governance · incident response · cron/ops scheduling
-**Engineering** — full-stack TS/Next.js · Supabase + RLS · payment webhook integration · multi-provider AI orchestration
+**Product** — 0→1 discovery · structured-output AI UX · pricing & packaging · scoping
+**Program** — versioned releases · pre-launch governance · incident response · ops scheduling
+**Engineering** — full-stack TS/Next.js · Supabase + RLS · payment webhooks · multi-provider AI
 **Business** — unit economics · chargeback defense · refund policy design · subscription modeling
 
 ---
