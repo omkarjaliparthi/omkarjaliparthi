@@ -62,8 +62,8 @@
 <tr>
 <td width="50%" valign="top">
 
-#### [🔮 Insights by Omkar](https://www.insightsbyomkar.com) — *live SaaS*
-AI-powered tarot & spiritual insights platform with real paying users.
+#### [🔮 Insights by Omkar](https://www.insightsbyomkar.com) — *live SaaS* · [📖 case study](https://github.com/omkarjaliparthi/insights-by-omkar-case-study)
+AI-powered tarot & spiritual insights platform with real paying users. *(Production code private — [full public case study here](https://github.com/omkarjaliparthi/insights-by-omkar-case-study).)*
 
 **Role:** Founder · Product · Program · Engineering
 **Stack:** `Next.js 16` · `React 19` · `Supabase` · `Stripe` · `PayPal` · `OpenAI` · `Anthropic` · `Resend` · `Vercel`
