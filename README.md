@@ -41,14 +41,16 @@ Founded **Omkar's Holistic Services LLC** (DBA *Insights by Omkar*) in May 2023;
 <tr>
 <td width="50%" valign="top">
 
-#### 🔮 Insights by Omkar &nbsp; <sub><i>live · private repo</i></sub>
-AI consumer SaaS. Paying users. Full-stack ownership.
+#### 🔮 Insights by Omkar &nbsp; <sub><i>live · v2.2.0 · private repo</i></sub>
+AI consumer SaaS with multi-model governance. 1,200+ library entries · 5 paid AI chambers · 33 admin panels · 100+ schema-enriched pages.
 
 **Role:** Founder · Product · Program · Engineering
 **Business:** Omkar's Holistic Services LLC (DBA) · *May 2023 →*
-**Ship:** 6 weeks · v0.01 → v2.0.7
+**Ship:** 6-week core · ongoing hardening · v0.01 → v2.2.0
 
-`Next.js 16` · `Supabase` · `Stripe + PayPal` · `OpenAI + Anthropic` · `Resend` · `Vercel`
+`Next.js 16` · `Supabase + RLS` · `Stripe + PayPal` · `Claude + GPT-4o` · `Resend` · `Vercel`
+
+**Standouts:** two-stage AI content governance (Chandra + Surya quality → Brahma + Vishnu + Shiva strategy, with dual-model consensus) · atomic credit architecture with automatic refund · live audit plane (`project_plans`, `project_decisions`, `error_log`, `intelligence_recommendations`, `cron_log`)
 
 → [Live product](https://www.insightsbyomkar.com)
 → [Case study](https://github.com/omkarjaliparthi/insights-by-omkar-case-study)
