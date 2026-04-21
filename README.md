@@ -57,7 +57,7 @@ Consumer AI SaaS with multi-model governance. 1,200+ library entries · 5 paid A
 </td>
 <td width="50%" valign="top">
 
-#### ⭐ Insights Astrology API &nbsp; <sub><i>public · live demo · commercial</i></sub>
+#### ⭐ Insights Astrology API &nbsp; <sub><i>live · commercial · proprietary server</i></sub>
 Commercial astronomy API built from first principles. 43 endpoints, zero third-party astro libraries.
 
 **Role:** Founder · Architecture · Engineering
@@ -67,7 +67,7 @@ Commercial astronomy API built from first principles. 43 endpoints, zero third-p
 
 **Standouts:** ~1 arcsecond planet accuracy · 230+ Meeus golden-file tests · stateless JWT + dual-backend rate limiting (Upstash + in-process fallback) · proprietary server + MIT SDKs · interactive Scalar API docs · Western / Vedic / Hellenistic coverage
 
-→ [Live demo](https://tuffys-ai-astrology.vercel.app) · [Pricing](https://tuffys-ai-astrology.vercel.app/pricing) · [Source](https://github.com/omkarjaliparthi/tuffys-ai-astrology) · [Go SDK](https://github.com/omkarjaliparthi/tuffys-astrology-go)
+→ [Live demo](https://tuffys-ai-astrology.vercel.app) · [Pricing](https://tuffys-ai-astrology.vercel.app/pricing) · [Go SDK](https://github.com/omkarjaliparthi/tuffys-astrology-go)
 
 </td>
 </tr>
