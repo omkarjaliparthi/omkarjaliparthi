@@ -67,7 +67,7 @@ Commercial astronomy API built from first principles. 109+ endpoints (43-endpoin
 
 **Standouts:** ~1 arcsecond planet accuracy · 230+ Meeus golden-file tests · stateless JWT + dual-backend rate limiting (Upstash + in-process fallback) · proprietary server + MIT SDKs · interactive Scalar API docs · Western / Vedic / Hellenistic coverage
 
-→ [Live API](https://kriya.insightsbyomkar.com) · [Pricing](https://kriya.insightsbyomkar.com/pricing) · [Go SDK](https://github.com/omkarjaliparthi/tuffys-astrology-go)
+→ [Live API](https://kriya.insightsbyomkar.com) · [Pricing](https://kriya.insightsbyomkar.com/pricing) · [Go SDK](https://github.com/omkarjaliparthi/kriya-go)
 
 </td>
 </tr>
