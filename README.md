@@ -6,7 +6,7 @@
   <a href="mailto:Jaliparthiomkar03@gmail.com"><img src="https://img.shields.io/badge/Email-6E56CF?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jaliparthiomkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.insightsbyomkar.com"><img src="https://img.shields.io/badge/Live_Product-insightsbyomkar.com-181717?style=flat-square" /></a>
-  <a href="https://tuffys-ai-astrology.vercel.app"><img src="https://img.shields.io/badge/Live_API-Insights_Astrology_API-6E56CF?style=flat-square" /></a>
+  <a href="https://kriya.insightsbyomkar.com"><img src="https://img.shields.io/badge/Live_API-Kriya_(Insights_Astrology_API)-6E56CF?style=flat-square" /></a>
   <img src="https://img.shields.io/badge/Open_to_Relocate-US_Wide-black?style=flat-square" />
   <img src="https://img.shields.io/badge/US_Work_Authorized-success?style=flat-square" />
 </p>
@@ -15,7 +15,7 @@
 
 ### About
 
-Product & Program leader who ships. 8+ years running multi-team delivery across **$1.2M+ portfolios**. Most recently: designed and shipped two production AI products solo — a consumer SaaS in **6 weeks**, and a **43-endpoint commercial astronomy API** built on a home-grown ephemeris engine. Strategy, program, and code, end to end.
+Product & Program leader who ships. 8+ years running multi-team delivery across **$1.2M+ portfolios**. Most recently: designed and shipped two production AI products solo — a consumer SaaS shipped in **6 weeks** (now in Phase 2 expansion, v2.19+, paying users) and a commercial astronomy API — **Kriya** — that grew from a 43-endpoint v1 launch to **109+ endpoints** over nine weeks of disciplined iteration, on a home-grown ephemeris engine. Strategy, program, and code, end to end.
 
 Founded **Omkar's Holistic Services LLC** (DBA *Insights by Omkar*) in May 2023. PRD → Figma → Jira → production code → postmortem. I don't hand off work I can't do myself.
 
@@ -29,7 +29,7 @@ Founded **Omkar's Holistic Services LLC** (DBA *Insights by Omkar*) in May 2023.
 <td><b>92%</b><br/><sub>On-time delivery</sub></td>
 <td><b>58%</b><br/><sub>Faster MTTR</sub></td>
 <td><b>6 weeks</b><br/><sub>Solo SaaS ship</sub></td>
-<td><b>43</b><br/><sub>API endpoints (solo)</sub></td>
+<td><b>109+</b><br/><sub>API endpoints (solo)</sub></td>
 <td><b>230+</b><br/><sub>Golden-file tests</sub></td>
 </tr>
 </table>
@@ -42,11 +42,11 @@ Founded **Omkar's Holistic Services LLC** (DBA *Insights by Omkar*) in May 2023.
 <tr>
 <td width="50%" valign="top">
 
-#### 🔮 Insights by Omkar &nbsp; <sub><i>live · v2.2.0 · private</i></sub>
-Consumer AI SaaS with multi-model governance. 1,200+ library entries · 5 paid AI chambers · 33 admin panels · 100+ schema-enriched pages.
+#### 🔮 Insights by Omkar &nbsp; <sub><i>live · v2.19+ · paying users · private repo</i></sub>
+Consumer AI SaaS with multi-model governance. 1,200+ library entries · 5 paid AI chambers · 38 admin panels · 100+ schema-enriched pages.
 
 **Role:** Founder · Product · Program · Engineering
-**Build:** 6-week core · ongoing hardening · ~115K LOC · 97 API routes · 37 Supabase migrations
+**Build:** 6-week core ship · 9+ weeks of sustained Phase 2 cadence · 139 API routes · 60 Supabase migrations
 
 `Next.js 16` · `Supabase + RLS` · `Stripe + PayPal` · `Claude + GPT-4o` · `Resend` · `Vercel`
 
@@ -57,17 +57,17 @@ Consumer AI SaaS with multi-model governance. 1,200+ library entries · 5 paid A
 </td>
 <td width="50%" valign="top">
 
-#### ⭐ Insights Astrology API &nbsp; <sub><i>live · commercial · proprietary server</i></sub>
-Commercial astronomy API built from first principles. 43 endpoints, zero third-party astro libraries.
+#### ⭐ Kriya — Insights Astrology API &nbsp; <sub><i>live · commercial · proprietary server · formerly Tuffys</i></sub>
+Commercial astronomy API built from first principles. 109+ endpoints (43-endpoint v1 → grown across nine semver versions), zero third-party astro libraries.
 
 **Role:** Founder · Architecture · Engineering
-**Build:** ~40K LOC ephemeris engine · Meeus-validated · TS + Python + Go SDKs · tiered pricing (Dev free / Studio $49 / Scale)
+**Build:** ~40K+ LOC ephemeris engine · 230+ Meeus golden-file tests · TS + Python + Go SDKs · tiered pricing (Dev free / Studio $49 / Scale)
 
 `Next.js` · `TypeScript` · `JWT (HS256)` · `Upstash Redis` · `VSOP87D` · `ELP2000` · `OpenAPI 3.1`
 
 **Standouts:** ~1 arcsecond planet accuracy · 230+ Meeus golden-file tests · stateless JWT + dual-backend rate limiting (Upstash + in-process fallback) · proprietary server + MIT SDKs · interactive Scalar API docs · Western / Vedic / Hellenistic coverage
 
-→ [Live demo](https://tuffys-ai-astrology.vercel.app) · [Pricing](https://tuffys-ai-astrology.vercel.app/pricing) · [Go SDK](https://github.com/omkarjaliparthi/tuffys-astrology-go)
+→ [Live API](https://kriya.insightsbyomkar.com) · [Pricing](https://kriya.insightsbyomkar.com/pricing) · [Go SDK](https://github.com/omkarjaliparthi/tuffys-astrology-go)
 
 </td>
 </tr>
@@ -100,6 +100,15 @@ Healthcare records platform unifying patient data across providers.
 </td>
 </tr>
 </table>
+
+---
+
+### Decision artifacts &nbsp; <sub><i>how I think, in writing</i></sub>
+
+- 📐 **[Portfolio strategy](https://github.com/omkarjaliparthi/tpm-portfolio/blob/main/portfolio-strategy.md)** — the dogfood-first thesis behind a multi-product solo studio. One sentence, one Mermaid diagram, why-this-order rationale.
+- 📊 **[Metrics methodology](https://github.com/omkarjaliparthi/tpm-portfolio/blob/main/methodology.md)** — every headline number in this profile, defined: scope, exclusions, what it does and does not mean. Auditable.
+- 💰 **[Pricing & packaging](https://github.com/omkarjaliparthi/tpm-portfolio/blob/main/pricing-and-packaging.md)** — the framework I used to price Kriya's three tiers. Tier shape before tier numbers.
+- 🏛️ **[RFC · home-grown ephemeris (build vs buy)](https://github.com/omkarjaliparthi/tpm-portfolio/blob/main/rfcs/home-grown-ephemeris-engine.md)** — four-option weighted decision, four-phase implementation plan, the moat reasoning that made Kriya possible.
 
 ---
 
@@ -144,16 +153,3 @@ Healthcare records platform unifying patient data across providers.
 &nbsp;·&nbsp; <a href="https://www.insightsbyomkar.com">insightsbyomkar.com</a>
 </p>
 
-<!--
-Recruiter keywords:
-Technical Program Manager, Senior TPM, Staff TPM, Principal TPM, Program Manager, Product Manager,
-Senior Product Manager, Staff Product Manager, Principal PM, Founding PM, Founding TPM, Founding Product,
-Product Operations, Product Ops Lead, Growth PM, Platform PM, Consumer PM, AI PM, Developer Platform PM,
-API Product Manager, Developer Experience, DevRel PM, Infrastructure PM, Data PM, ML PM,
-AI platforms, LLM, GenAI, agentic AI, developer tools, API products, SDK, 0 to 1, founding team, Agile, Scrum, SAFe, RAID, OKRs,
-Jira, Confluence, Figma, GCP, BigQuery, Supabase, Next.js, OpenAI, Anthropic, Stripe, PayPal, Upstash, OpenAPI, TensorFlow, Go, Golang, Python, TypeScript,
-San Jose, Bay Area, San Francisco, Silicon Valley, Palo Alto, Mountain View, Sunnyvale, Oakland, Berkeley,
-New York City, NYC, Manhattan, Brooklyn, Seattle, Bellevue, Redmond, Austin, Boston, Cambridge, Chicago, Denver, Boulder, Atlanta, Miami, Los Angeles, San Diego, Portland, Pittsburgh, Washington DC, Arlington, Nashville, Raleigh, Durham, Dallas, Houston, Phoenix, Minneapolis, Salt Lake City,
-remote, hybrid, relocate, relocation, US work authorized, citizen,
-FAANG, MAANG, Google, Meta, Apple, Amazon, Microsoft, Netflix, Airbnb, Stripe, Anthropic, OpenAI, Nvidia, Databricks, Snowflake, MongoDB, Vercel, Cloudflare, Ramp, Notion, Figma, Linear, hiring.
--->
